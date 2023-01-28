@@ -11,5 +11,6 @@ In the CNN part of the project, transfer learning applications such as ResNet, V
 The flickr dataset is too big to upload here it can be downloaded online from kaggle.
 https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset
 
+I also upload the source code and the working model pth file in order to test the model without running the code. 
 
 Detailed information is given in the results pdf. 
